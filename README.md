@@ -1,12 +1,26 @@
 # NeuPIMs Research Project
 
 ## Overview
-Research project exploring Processing-in-Memory (PIM) and Near-Data Processing (NDP) architectures using the NeuPIMs simulator from KAIST.
+Research project on Processing-in-Memory (PIM) and Near-Data Processing (NDP) architectures using the NeuPIMs simulator.
 
-## Research Objectives
-- Successfully configure and run NeuPIMs simulator
-- Understand PIM/NDP acceleration for LLM inference
-- Explore GPU-NDP expert scheduling coordination
-- Document findings and performance analysis
+## Goal
+- Set up and run NeuPIMs simulator
+- Create demo presentation
+- Understand PIM/NDP acceleration for AI workloads
 
-## Project Structure
+## Progress
+- [x] Create repository
+- [ ] Install NeuPIMs simulator
+- [ ] Run experiments
+- [ ] Prepare demo
+
+## Environment
+- macOS (Apple M2)
+- Docker
+- NeuPIMs simulator
+
+## Next Steps
+1. Set up Docker environment
+2. Clone NeuPIMs repository
+3. Run sample experiments
+4. Document results
