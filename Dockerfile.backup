@@ -27,6 +27,7 @@ RUN yum update -y && yum install -y \
     cmake3
 
 # Use cmake3 as default cmake
+RUN ln -s /usr/bin/cmake3 /usr/bin/cmake
 
 # Set working directory
 WORKDIR /workspace
